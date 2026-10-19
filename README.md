@@ -1,5 +1,8 @@
 # KaVa Workspace Free
 
+[![Besuche](https://hits.sh/github.com/kava140982-max/Apophis_Homecore.svg?label=Besuche)](https://hits.sh/github.com/kava140982-max/Apophis_Homecore/)
+
+
 **Eine kostenlose, bewusst kleine Ausgabe für den eigenen Rechner.**
 
 KaVa Workspace Free hilft dabei, einfache Notizen, Aufgaben und Verweise auf Dateien an einem Ort zu sammeln. Die Einträge werden auf Ihrem eigenen Rechner gespeichert und verschlüsselt abgelegt.
