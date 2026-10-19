@@ -32,7 +32,7 @@ Python erhalten Sie auf der offiziellen Seite [python.org](https://www.python.or
 
 ### 1. Projektdatei herunterladen
 
-Laden Sie auf GitHub die ZIP-Datei dieses Projekts über **Code → Download ZIP** herunter und entpacken Sie sie. Merken Sie sich den Speicherort des entpackten Ordners `kava-workspace-free`.
+Laden Sie auf GitHub die ZIP-Datei dieses Projekts über **Code → Download ZIP** herunter und entpacken Sie sie. Merken Sie sich den Speicherort des entpackten Projektordners. Er heißt in der Regel `Apophis_Homecore-main`.
 
 ### 2. Terminal öffnen
 
@@ -43,7 +43,7 @@ Laden Sie auf GitHub die ZIP-Datei dieses Projekts über **Code → Download ZIP
 Wechseln Sie in den entpackten Ordner. Beispiel (ersetzen Sie den Pfad durch den tatsächlichen Ablageort):
 
 ```text
-cd Pfad/zum/kava-workspace-free
+cd Pfad/zum/Apophis_Homecore-main
 ```
 
 ### 3. Virtuelle Umgebung anlegen
