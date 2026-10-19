@@ -1,0 +1,6 @@
+"""KaVa Workspace Free – eingeschränkte lokale Ausgabe."""
+BRAND = "KaVa"
+COPYRIGHT = "Kai Valenta"
+LICENSE_HOLDER = "Kai Valenta"
+CONTACT = "Kava140982@gmail.com"
+__version__ = "1.0.0"
